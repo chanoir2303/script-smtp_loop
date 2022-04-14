@@ -1,7 +1,7 @@
 import smtplib
 subject = 'Python Email'
 
-body = 'This email is sent using python'
+body = 'Test'
 
 message = f'Subject: {subject}\n\n{body}'
 
